@@ -1,0 +1,1 @@
+/Users/mreigen/Documents/Titanium_Studio_Workspace/KhongMinhThanToan/Resources/ui/tablet/ApplicationWindow.js
